@@ -6,20 +6,20 @@ In this dataset, we have many bank customers, each of whom has characteristics, 
     </span> 
     <h3 style="color: #0c2461;">Tasks in this notebook</h3>
     <ul style="list-style-type: none; padding-left: 0;">
-        <li><span style="margin-left: -10px;">&#8226;</span> Import libraries</li>
-        <li><span style="margin-left: -10px;">&#8226;</span> Read dataset and get information from data</li>
-        <li><span style="margin-left: -10px;">&#8226;</span> Cleaning Dataset</li>
-        <li><span style="margin-left: -10px;">&#8226;</span> Features</li>
+        <li><span style="margin-left: -10px;"></span> Import libraries</li>
+        <li><span style="margin-left: -10px;"></span> Read dataset and get information from data</li>
+        <li><span style="margin-left: -10px;"></span> Cleaning Dataset</li>
+        <li><span style="margin-left: -10px;"></span> Features</li>
         <li>
-            <span style="margin-left: -10px;">&#8226;</span> Modeling
+            <span style="margin-left: -10px;"></span> Modeling
             <ul style="list-style-type: none; padding-left: 20px;">
-                <li><span style="margin-left: -10px;">&#8226;</span> Logestic Regression</li>
-                <li><span style="margin-left: -10px;">&#8226;</span> Complement Naive Bayes (CNB)</li>
-                <li><span style="margin-left: -10px;">&#8226;</span> KNN (K-Nearest Neighbors)</li>
-                <li><span style="margin-left: -10px;">&#8226;</span> Decision Tree classifier</li>
-                <li><span style="margin-left: -10px;">&#8226;</span> Random Forest classifier</li>
+                <li><span style="margin-left: -10px;"></span> Logestic Regression</li>
+                <li><span style="margin-left: -10px;"></span> Complement Naive Bayes (CNB)</li>
+                <li><span style="margin-left: -10px;"></span> KNN (K-Nearest Neighbors)</li>
+                <li><span style="margin-left: -10px;"></span> Decision Tree classifier</li>
+                <li><span style="margin-left: -10px;"></span> Random Forest classifier</li>
             </ul>
         </li>
-        <li><span style="margin-left: -10px;">&#8226;</span>Predict an unseen data</li>
+        <li><span style="margin-left: -10px;"></span>Predict an unseen data</li>
     </ul>
 </div>
