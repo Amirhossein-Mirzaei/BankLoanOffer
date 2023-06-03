@@ -25,6 +25,13 @@ In this dataset, we have many bank customers, each of whom has characteristics, 
 </div>
 
 
+<h2 style="position: relative;">
+    <span style="color: #0c2461;">Dataset Overview</span> 
+    <br/>
+    <hr style="position: absolute; bottom: -8px; border: none; height: 4px; width: 100%; background-color: #6a89cc;">
+</h2>
+
+
 |Column|description|
 |:------------------------------:|:-----------------------------:|
 |<code>ID</code>|Customer ID|
