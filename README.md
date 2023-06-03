@@ -23,3 +23,21 @@ In this dataset, we have many bank customers, each of whom has characteristics, 
         <li><span style="margin-left: -10px;"></span>Predict an unseen data</li>
     </ul>
 </div>
+
+
+|Column|description|
+|:------------------------------:|:-----------------------------:|
+|<code>ID</code>|Customer ID|
+|<code>Age</code>|Customer's age|
+|<code>Experience</code>|Years of customer experience|
+|<code>Income</code>|Customer's annual income|
+|<code>ZIP Code</code>|Customer's home address zipcode|
+|<code>Family</code>|Customer's family members count|
+|<code>CCAvg</code>|Avg. spending on credit cards per month|
+|<code>Education</code>|Education level<br><i>undergraduate : 1<br>graduated : 2<br>Advanced education : 3<i/>|
+|<code>Mortgage</code>|value of house mortgage|
+|<code><b>Personal Loan [target variable]<b/></code>|Did the customers accept the offer in the last campaign?|
+|<code>Securities Account</code>|Does the customer have a securities account with the bank?|
+|<code>CD Account</code>|Does the customer have a certificate of deposit (CD) account with the bank?|
+|<code>Online</code>|Does the customer use internet banking facilities?|
+|<code>CreditCard</code>|Does the customer use a credit card issued by UniversalBark|
